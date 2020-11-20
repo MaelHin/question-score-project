@@ -1,7 +1,7 @@
 # MIAGe Master 1 - TP Tests 1
 
-### NOM : DOE
-### Prénom : John
+### NOM : HINGOUËT
+### Prénom : Maël
 ### Groupe de TP : 
 - [ ] 1
 - [x] 2
